@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "validate:data": "node scripts/validate-dataset.mjs",
     "validate:scaffold": "node scripts/validate-scaffold.mjs",
-    "validate": "npm run validate:data && npm run validate:scaffold"
+    "validate:canonical": "node scripts/validate-canonical-context.mjs",
+    "validate": "npm run validate:data && npm run validate:scaffold && npm run validate:canonical"
   },
   "dependencies": {
     "@openai/agents": "^0.16.1",
