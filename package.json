@@ -1,0 +1,28 @@
+{
+  "name": "mandarin-band1-trainer",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "dev:token": "node server/realtime-token.mjs",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "validate:data": "node scripts/validate-dataset.mjs",
+    "validate:scaffold": "node scripts/validate-scaffold.mjs",
+    "validate": "npm run validate:data && npm run validate:scaffold"
+  },
+  "dependencies": {
+    "@openai/agents": "^0.16.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.0.5",
+    "typescript": "^5.9.3",
+    "vite": "^8.2.1"
+  }
+}
