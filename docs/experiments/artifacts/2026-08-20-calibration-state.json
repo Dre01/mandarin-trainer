@@ -1,0 +1,375 @@
+{
+  "version": 1,
+  "lexemes": {
+    "lex_wo": {
+      "production": "new",
+      "listening": "unrecognized",
+      "successes": 1,
+      "failures": 0,
+      "independentSuccesses": 1,
+      "fastIndependentSuccesses": 1,
+      "consecutiveFailures": 0,
+      "sessionsSeen": [
+        "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b"
+      ],
+      "contextsSeen": [],
+      "spontaneousSuccesses": 0,
+      "lastSeenAt": "2026-08-20T10:12:03.357Z"
+    },
+    "lex_ni": {
+      "production": "new",
+      "listening": "unrecognized",
+      "successes": 1,
+      "failures": 0,
+      "independentSuccesses": 1,
+      "fastIndependentSuccesses": 1,
+      "consecutiveFailures": 0,
+      "sessionsSeen": [
+        "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b"
+      ],
+      "contextsSeen": [],
+      "spontaneousSuccesses": 0,
+      "lastSeenAt": "2026-08-20T10:12:03.357Z"
+    },
+    "lex_you": {
+      "production": "new",
+      "listening": "unrecognized",
+      "successes": 1,
+      "failures": 0,
+      "independentSuccesses": 1,
+      "fastIndependentSuccesses": 1,
+      "consecutiveFailures": 0,
+      "sessionsSeen": [
+        "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b"
+      ],
+      "contextsSeen": [],
+      "spontaneousSuccesses": 0,
+      "lastSeenAt": "2026-08-20T10:13:56.663Z"
+    },
+    "lex_meiyou": {
+      "production": "new",
+      "listening": "unrecognized",
+      "successes": 0,
+      "failures": 1,
+      "independentSuccesses": 0,
+      "fastIndependentSuccesses": 0,
+      "consecutiveFailures": 1,
+      "sessionsSeen": [
+        "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b"
+      ],
+      "contextsSeen": [
+        "con_c06_not_have_exist"
+      ],
+      "spontaneousSuccesses": 0,
+      "lastSeenAt": "2026-08-20T10:14:40.807Z"
+    },
+    "lex_yao_want": {
+      "production": "new",
+      "listening": "clear",
+      "successes": 1,
+      "failures": 0,
+      "independentSuccesses": 1,
+      "fastIndependentSuccesses": 1,
+      "consecutiveFailures": 0,
+      "sessionsSeen": [
+        "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b"
+      ],
+      "contextsSeen": [
+        "con_c29_want_action"
+      ],
+      "spontaneousSuccesses": 1,
+      "lastSeenAt": "2026-08-20T10:16:09.487Z"
+    },
+    "lex_qu": {
+      "production": "new",
+      "listening": "clear",
+      "successes": 1,
+      "failures": 0,
+      "independentSuccesses": 1,
+      "fastIndependentSuccesses": 1,
+      "consecutiveFailures": 0,
+      "sessionsSeen": [
+        "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b"
+      ],
+      "contextsSeen": [
+        "con_c29_want_action"
+      ],
+      "spontaneousSuccesses": 1,
+      "lastSeenAt": "2026-08-20T10:16:09.487Z"
+    },
+    "lex_nar": {
+      "production": "new",
+      "listening": "clear",
+      "successes": 1,
+      "failures": 0,
+      "independentSuccesses": 1,
+      "fastIndependentSuccesses": 1,
+      "consecutiveFailures": 0,
+      "sessionsSeen": [
+        "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b"
+      ],
+      "contextsSeen": [
+        "con_c19_where_question"
+      ],
+      "spontaneousSuccesses": 0,
+      "lastSeenAt": "2026-08-20T10:16:09.487Z"
+    }
+  },
+  "constructions": {
+    "con_c15_ma_question": {
+      "production": "new",
+      "listening": "unrecognized",
+      "successes": 1,
+      "failures": 0,
+      "independentSuccesses": 1,
+      "fastIndependentSuccesses": 1,
+      "consecutiveFailures": 0,
+      "sessionsSeen": [
+        "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b"
+      ],
+      "contextsSeen": [],
+      "spontaneousSuccesses": 0,
+      "lastSeenAt": "2026-08-20T10:13:56.663Z"
+    },
+    "con_c06_not_have_exist": {
+      "production": "new",
+      "listening": "unrecognized",
+      "successes": 0,
+      "failures": 1,
+      "independentSuccesses": 0,
+      "fastIndependentSuccesses": 0,
+      "consecutiveFailures": 1,
+      "sessionsSeen": [
+        "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b"
+      ],
+      "contextsSeen": [],
+      "spontaneousSuccesses": 0,
+      "lastSeenAt": "2026-08-20T10:14:40.807Z"
+    },
+    "con_c29_want_action": {
+      "production": "new",
+      "listening": "clear",
+      "successes": 1,
+      "failures": 0,
+      "independentSuccesses": 1,
+      "fastIndependentSuccesses": 1,
+      "consecutiveFailures": 0,
+      "sessionsSeen": [
+        "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b"
+      ],
+      "contextsSeen": [],
+      "spontaneousSuccesses": 1,
+      "lastSeenAt": "2026-08-20T10:16:09.487Z"
+    }
+  },
+  "chunks": {
+    "chunk_r01_not_understood": {
+      "production": "new",
+      "listening": "clear",
+      "successes": 1,
+      "failures": 0,
+      "independentSuccesses": 1,
+      "fastIndependentSuccesses": 1,
+      "consecutiveFailures": 0,
+      "sessionsSeen": [
+        "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b"
+      ],
+      "contextsSeen": [],
+      "spontaneousSuccesses": 1,
+      "lastSeenAt": "2026-08-20T10:15:21.479Z"
+    }
+  },
+  "contrasts": {},
+  "closedSystems": {},
+  "functions": {},
+  "pronunciation": {},
+  "evidence": [
+    {
+      "id": "9d737ce5-0279-410c-8b3f-3b7f79bb9bb3",
+      "sessionId": "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b",
+      "timestamp": "2026-08-20T10:12:03.357Z",
+      "targetType": "lexeme",
+      "targetId": "lex_wo",
+      "mode": "test",
+      "correct": true,
+      "independent": true,
+      "hintLevel": 0,
+      "novelContext": true,
+      "spontaneous": false,
+      "latency": "slight",
+      "pronunciation": "acceptable",
+      "note": "Retrieved spoken form for 'I' after prompt; tone modeled and retried once."
+    },
+    {
+      "id": "6bf98816-20ca-416f-9b9c-f4fb0b6f2deb",
+      "sessionId": "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b",
+      "timestamp": "2026-08-20T10:12:03.357Z",
+      "targetType": "lexeme",
+      "targetId": "lex_ni",
+      "mode": "test",
+      "correct": true,
+      "independent": true,
+      "hintLevel": 0,
+      "novelContext": true,
+      "spontaneous": false,
+      "latency": "immediate",
+      "pronunciation": "acceptable",
+      "note": "Retrieved spoken form for 'you' after prompt; tone noted for clarity."
+    },
+    {
+      "id": "cdeefdd3-09dc-4001-a67b-e3fc6bf24b22",
+      "sessionId": "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b",
+      "timestamp": "2026-08-20T10:13:56.663Z",
+      "targetType": "lexeme",
+      "targetId": "lex_you",
+      "mode": "test",
+      "correct": true,
+      "independent": true,
+      "hintLevel": 0,
+      "novelContext": true,
+      "spontaneous": false,
+      "latency": "immediate",
+      "pronunciation": "acceptable",
+      "note": "Learner produced yǒu in a yes/no question with ma using bǐ as object."
+    },
+    {
+      "id": "0279fcdc-c9bb-4c6e-80d5-c2b02439c5dc",
+      "sessionId": "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b",
+      "timestamp": "2026-08-20T10:13:56.663Z",
+      "targetType": "construction",
+      "targetId": "con_c15_ma_question",
+      "mode": "test",
+      "correct": true,
+      "independent": true,
+      "hintLevel": 0,
+      "novelContext": true,
+      "spontaneous": false,
+      "latency": "immediate",
+      "note": "Learner formed a ma yes/no question from a statement pattern."
+    },
+    {
+      "id": "068ae59d-3778-4b8d-aa18-fa770d9eadf9",
+      "sessionId": "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b",
+      "timestamp": "2026-08-20T10:14:40.807Z",
+      "targetType": "lexeme",
+      "targetId": "lex_meiyou",
+      "mode": "test",
+      "correct": false,
+      "independent": true,
+      "hintLevel": 0,
+      "contextId": "con_c06_not_have_exist",
+      "novelContext": true,
+      "spontaneous": false,
+      "latency": "slight",
+      "pronunciation": "acceptable",
+      "note": "Learner attempted negation of possession and used bù yǒu instead of méiyǒu."
+    },
+    {
+      "id": "d463cc4c-45b7-4354-8e60-a83bfea0cbc9",
+      "sessionId": "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b",
+      "timestamp": "2026-08-20T10:14:40.807Z",
+      "targetType": "construction",
+      "targetId": "con_c06_not_have_exist",
+      "mode": "test",
+      "correct": false,
+      "independent": true,
+      "hintLevel": 0,
+      "novelContext": true,
+      "spontaneous": false,
+      "latency": "slight",
+      "note": "Negation of possession/existence produced incorrectly as bù yǒu."
+    },
+    {
+      "id": "e469d4ba-798b-4fe9-892f-7e0141531a25",
+      "sessionId": "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b",
+      "timestamp": "2026-08-20T10:15:21.479Z",
+      "targetType": "chunk",
+      "targetId": "chunk_r01_not_understood",
+      "mode": "listen",
+      "correct": true,
+      "independent": true,
+      "hintLevel": 0,
+      "listeningLevel": 2,
+      "novelContext": true,
+      "spontaneous": true,
+      "latency": "immediate",
+      "pronunciation": "acceptable",
+      "note": "Learner used repair phrase when faced with faster speech they did not understand."
+    },
+    {
+      "id": "8e88a5e1-57ac-4d29-b39a-60d4e63d4586",
+      "sessionId": "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b",
+      "timestamp": "2026-08-20T10:16:09.487Z",
+      "targetType": "lexeme",
+      "targetId": "lex_yao_want",
+      "mode": "converse",
+      "correct": true,
+      "independent": true,
+      "hintLevel": 0,
+      "listeningLevel": 2,
+      "contextId": "con_c29_want_action",
+      "novelContext": true,
+      "spontaneous": true,
+      "latency": "slight",
+      "pronunciation": "acceptable",
+      "note": "Learner produced 'yào' in response to slowed question about destination."
+    },
+    {
+      "id": "aab91a7e-0f7d-4abe-9370-5d072c217522",
+      "sessionId": "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b",
+      "timestamp": "2026-08-20T10:16:09.487Z",
+      "targetType": "lexeme",
+      "targetId": "lex_qu",
+      "mode": "converse",
+      "correct": true,
+      "independent": true,
+      "hintLevel": 0,
+      "listeningLevel": 2,
+      "contextId": "con_c29_want_action",
+      "novelContext": true,
+      "spontaneous": true,
+      "latency": "slight",
+      "pronunciation": "acceptable",
+      "note": "Learner produced 'qù' correctly in a destination response."
+    },
+    {
+      "id": "66ec9750-764f-4863-819f-abf6a849ca39",
+      "sessionId": "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b",
+      "timestamp": "2026-08-20T10:16:09.487Z",
+      "targetType": "lexeme",
+      "targetId": "lex_nar",
+      "mode": "listen",
+      "correct": true,
+      "independent": true,
+      "hintLevel": 0,
+      "listeningLevel": 2,
+      "contextId": "con_c19_where_question",
+      "novelContext": true,
+      "spontaneous": false,
+      "latency": "slight",
+      "note": "Understood 'nǎr' in the slowed question and responded with a place."
+    },
+    {
+      "id": "7a1e980d-ed5c-440f-9a8f-3e2f8659ac45",
+      "sessionId": "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b",
+      "timestamp": "2026-08-20T10:16:09.487Z",
+      "targetType": "construction",
+      "targetId": "con_c29_want_action",
+      "mode": "converse",
+      "correct": true,
+      "independent": true,
+      "hintLevel": 0,
+      "listeningLevel": 2,
+      "novelContext": true,
+      "spontaneous": true,
+      "latency": "slight",
+      "note": "Produced 'yào qù' to express intended destination."
+    }
+  ],
+  "completedSessionIds": [
+    "b1-cal-4f74c3c5-8b2f-4618-a746-e4b0de12036b"
+  ],
+  "calibrationCompleted": true,
+  "createdAt": "2026-08-20T10:08:30.431Z",
+  "updatedAt": "2026-08-20T10:16:09.490Z"
+}

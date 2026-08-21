@@ -2,6 +2,9 @@
 
 React/TypeScript scaffold for the spoken-first Band 1 Mandarin curriculum.
 
+Project guardrails and canonical context: [`AGENTS.md`](AGENTS.md) and
+[`docs/canonical/PROJECT_CHARTER.md`](docs/canonical/PROJECT_CHARTER.md).
+
 ## Implemented
 
 - canonical `band1.bundle.json` embedded as static curriculum data;

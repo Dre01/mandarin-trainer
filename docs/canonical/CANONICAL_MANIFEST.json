@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 2,
+  "project": "Mandarin Control",
+  "canonicalDocs": [
+    "docs/canonical/PROJECT_CHARTER.md",
+    "docs/canonical/LEARNING_PRINCIPLES.md",
+    "docs/canonical/CURRICULUM_ARCHITECTURE.md",
+    "docs/canonical/SESSION_ENGINE_CONTRACT.md",
+    "docs/canonical/MASTERY_AND_EVIDENCE.md",
+    "docs/canonical/APP_ARCHITECTURE.md",
+    "docs/canonical/DECISIONS.md",
+    "docs/canonical/ROADMAP.md",
+    "docs/canonical/HANDOFF_PROTOCOL.md",
+    "docs/canonical/ORCHESTRATOR_BOOTSTRAP_PROMPT.md",
+    "docs/experiments/EXPERIMENT_LOG.md",
+    "docs/canonical/KNOWN_GOOD_BASELINE.md",
+    "docs/canonical/EXPERIMENT_PROTOCOL.md",
+    "docs/canonical/MERGE_BOOTSTRAP_PROMPT.md"
+  ],
+  "invariants": [
+    "spoken-functional Mandarin for life in China",
+    "pinyin-first learner interface",
+    "automaticity over nominal coverage",
+    "Voice improvises conversation, not pedagogy",
+    "deterministic application owns session selection",
+    "deterministic mastery engine owns promotion and demotion",
+    "strict construction attribution is canonical policy",
+    "conversation repair and transfer are hard capabilities",
+    "near-total economical correction",
+    "controlled novelty",
+    "permanent API key never enters the browser",
+    "API budget target approximately USD 20 per month",
+    "main preserves latest accepted stable behaviour",
+    "one meaningful behavioural variable per experiment",
+    "failed experiments are reverted rather than repaired by unrelated stacked changes",
+    "startup mechanism remains experimental unless empirically accepted"
+  ],
+  "currentPriority": "Merge canonical context docs only, tag restored v0.2 baseline, run a short full-model training baseline, then test Mini as a model-selection-only experiment."
+}
