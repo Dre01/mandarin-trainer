@@ -22,7 +22,7 @@ The recreated project has been pushed to a fresh GitHub repository. The reposito
 After docs-only merge, record:
 
 ```text
-baseline_commit: <FILL_AFTER_MERGE>
+baseline_commit: 30d8afa6bb8c8060267419708d32d607947901c5
 baseline_tag: baseline-known-good-v0.2
 ```
 
